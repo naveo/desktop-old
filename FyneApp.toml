@@ -1,0 +1,8 @@
+Website = "https://naveo.com"
+
+[Details]
+  Icon = "assets/Icon.png"
+  Name = "naveo"
+  ID = "com.naveo.desktop"
+  Version = "0.1.0"
+  Build = 8

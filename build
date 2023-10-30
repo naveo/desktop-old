@@ -1,0 +1,5 @@
+#!/bin/bash
+
+fyne package -os darwin
+
+cp /Users/khalid/.naveo/* naveo.app/Contents/MacOS/
